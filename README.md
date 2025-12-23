@@ -19,3 +19,5 @@ To fully understand this model, learners should have basic knowledge of data str
 - Timer list support  
 - Publish/Subscibe pattern.
 
+## 1. All function of each Component
+![Architecture Diagram](Image/detailOfEachComponent.png)
