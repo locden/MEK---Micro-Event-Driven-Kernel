@@ -25,3 +25,4 @@ To fully understand this model, learners should have basic knowledge of data str
 |------|------|
 | Active Object Model | https://www.state-machine.com/doc/AN_Active_Objects_for_Embedded.pdf |
 | Super Simple Tasker | https://github.com/QuantumLeaps/Super-Simple-Tasker |
+| QP/C                | https://github.com/QuantumLeaps/qpc |
