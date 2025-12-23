@@ -19,5 +19,9 @@ To fully understand this model, learners should have basic knowledge of data str
 - Timer list support  
 - Publish/Subscibe pattern.
 
-## 1. All function of each Component
-![Architecture Diagram](Image/detailOfEachComponent.png)
+## 5. References
+
+| Topic | Link |
+|------|------|
+| Active Object Model | https://www.state-machine.com/doc/AN_Active_Objects_for_Embedded.pdf |
+| Super Simple Tasker | https://github.com/QuantumLeaps/Super-Simple-Tasker |
